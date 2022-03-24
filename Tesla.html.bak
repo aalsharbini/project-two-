@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <nav id="navigation">
+    <ul>
+      <li><a href="index.html">Ala's Resume</a></li>
+      <li><a href="Tesla.html">About Tesla</a></li>
+      <li><a href="petra.html">place to visit in Jordan </a></li>
+    </ul>
+<style>
+
+  
+h1 {
+   border-radius: 25px ;
+  border: 2px solid black;
+  outline-style: dotted;
+  outline-color: red;
+ 
+  text-align: center;
+
+}
+h2 {
+  border: 3px solid blue;
+  outline-style: outset;
+  outline-color: red;
+   padding: 4px; 
+  width: 250px;
+  height: 30px;  
+  }
+h3{
+  border-radius: 25px ;
+  color: black;
+  height: 55px;
+  background-color: red; 
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>Tesla </h1>
+
+      
+      
+<h3> <li>12 features that make Tesla cars unmatched. </li></h3>
+
+<h2> 1. Autopilot </h2>
+<p>
+Tesla's website says the latest models have "8 external cameras, 12 ultrasonic sensors and a powerful onboard computer that provides an extra layer of safety, but all of these equipment that's supposed to provide safety for drivers when the autopilot is used is not a necessity." Not taking their hands off the steering wheel.
+
+Tesla says that although the service's name is "self-driving", the features currently available do not make the car fully autonomous.</p>
+
+<h2>2. Karaoke</h2> 
+<p>In its software update for the tenth version, Tesla got a karaoke feature that allows owners of this car to choose from a wide range of music and lyrics to chant. </p> 
+
+<h2> 3. BW Defense Mode </h2> 
+<p>Tesla X and Y models are equipped with a HEPA air filtration system that filters toxic chemicals before they reach the vehicle's cabin.
+
+"We developed a HEPA filtration system, which is inspired by the air purification systems used in hospitals, sterile rooms, and the aerospace industry, and is able to strip outside air of pollen, bacteria and pollution," Tesla says. <p/> 
+
+
+<h2> 4. Touch screen</h2>
+<p>All Tesla models feature a unique touchscreen that comes with a range of features, including video games and live traffic updates, in addition to having general features like temperature control and navigation, but it's not like other features on the market. </p> 
+
+
+<h2>5. Air suspension</h2> 
+<p> Tesla is equipped with an intelligent automatic lift air suspension system that changes based on your vehicle's zone coordinates. Users also have the option to manually change the suspension stability through the Tesla Control Panel. This feature can be really useful if you are traveling across the country, and when faced with changes in the road.</p> 
+
+
+<h2> 6. Guard Mode </h2> 
+<p> Guard mode allows you to closely monitor your parked vehicle from anywhere in the world. Let's say someone hits your car with a shopping cart. The car will start recording from outside cameras and will alert you that it has been hit by the Tesla app. This feature eliminates the problems that vehicle owners face. With mysterious and unknown incidents. </p> 
+
+
+<h2> 7. The key </h2> 
+<p> There are lots of funky car key shape options out there, and there are unique Tesla car keys. </p> 
+
+<h2> 8. Application </h2> 
+<p> One of the most interesting things about Tesla is the app that allows drivers to control their cars from almost anywhere.The app sends real-time updates if Sentinel mode is activated, and you can also check the condition of your vehicle while charging, control the air conditioning and temperature, as well as lock and unlock the vehicle.
+</p> 
+
+<h2> 9. Remote Updates </h2> 
+<p> Tesla cars often receive updates designed to send new features to vehicles and "make them safer," says Tesla's website.
+
+Vehicles can't start while updates are installed, but you can turn on your vehicle while updates are being downloaded, and other automakers have since adopted Tesla's approach to vehicle updates.
+</p> 
+<h2> 10. Racing Mode</h2> 
+<p>If you need speed and want to take your car to the racetrack then this extra mode is for you, this feature heats the battery to an ideal temperature allowing the car to reach maximum speed. </p> 
+
+
+<h2>11. Blade Mode </h2> 
+<p> Plaid mode is another advantage for speed racers, and CNN says Tesla cars that have the Blaid feature contain batteries and 3 electric motors that can produce up to 1,020 horsepower, and the car can take from Zero to 60 mph in just two seconds”, which puts these cars in the same performance class as Bugatti and Lamborghini.</p> 
+
+
+<h2> 12. Lay your pet </h2> 
+<p>With your pet in mind, Tesla introduced a "Pet Mode" to keep it in the car while regulating the car's temperature to avoid the animal from overheating.</p> 
+</body>
+</html>
+
+

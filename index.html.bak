@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <nav id="navigation">
+    <ul>
+      <li><a href="index.html">All About Ala</a></li>
+      <li><a href="Tesla.html">Ala's Resume</a></li>
+      <li><a href="petra.html">Ala's Reviews</a></li>
+    </ul>
+<style>
+
+body{
+background-color: red; 
+  background-image: radial-gradient(red, yellow, green);
+
+ 
+}
+
+
+
+
+p {
+  border: 3px solid red;
+  outline: black solid 5px;
+  outline-style: dotted;
+  outline-color: black;
+  margin: auto;  
+  padding: 10px;
+  text-align: center;
+  
+}
+
+h2 {
+  border-radius: 25px ;
+  border: 2px solid black;
+  outline-style: dotted;
+  outline-color: red;
+  padding: 4px; 
+  width: 190px;
+  height: 30px;  
+}
+<p id="rcorners2">Rounded corners!</p>
+<p class="ex3">A 5px solid yellow outline.</p>
+
+</style>
+</head>
+<body>
+
+
+
+<p><strong>Ala Resume</strong></p>
+<h2>Contact Info</h2> 
+  <ul>
+    <li>Email:- aalsharbini@hawk.iit.edu</li>
+     <li>Phone Number:- (708)-980-8822</li>
+    <li>Oak Lawn, illinois</li>
+  </ul>
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li>
+        <strong>Bachelor's Degree: </strong>information technology and
+        management ,(expected graduation Spring 2023)
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>High School</h2>
+    <ul>
+      <li>Zarqa high school</li>
+      <li>Time attended: 2014-2016</li>
+      <li>moraine valley community college</li>
+      <li>Time attended: 2017-2020</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Work Experience</h2>
+    <ul>
+      <li>
+        I'm a full time barber I been five years working as barber.
+      </li>
+      <li>
+      
+          I don't have experience in IT but I'm looking to do an Internship soon
+       </li>
+  
+            
+
+</html>
+</body>
+</html>
