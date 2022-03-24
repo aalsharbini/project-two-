@@ -20,7 +20,9 @@ h1 {
 
 }
 h2 {
-  background-color: blue;
+  background-color: red; 
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+  text-align: center;
 
   border: 3px solid blue;
   outline-style: outset;
@@ -39,8 +41,9 @@ h3{
   text-align: center;
 }
 p {
-  background-color: blue;
-  font-family: verdana;
+background-color: red; 
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+  text-align: center;  font-family: verdana;
   font-size: 20px;
 }
 </style>
